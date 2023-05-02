@@ -15,4 +15,12 @@ x = 100
 c = 1.25
 d = 'python'
 
-y = 'python'
+#capitalize
+#y = 'pytHOn'
+#out=y.capitalize()
+#print(out)
+
+#title
+t="hi how are you my friend"
+out=t.title()
+print(out)
