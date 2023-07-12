@@ -35,7 +35,7 @@ s[start:stop-1:step]
 
 '''
 
-x1 = 'Python'
+# x1 = 'Python'
 
 # s[start:stop-1:step]  # py
 

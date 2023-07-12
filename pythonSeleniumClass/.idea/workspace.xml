@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd4a1768-1092-451e-9b81-b86aa342ed9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class1/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumpython/driver/remotedriver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumpython/driver/simpleprogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumpython/driver/webdriver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumpython/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpython/driver/alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpython/driver/cookie demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpython/driver/drag_drop_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpython/driver/fiill_in_forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpython/driver/frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumpython/driver/switch_new_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1/stringDatatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/class1/stringDatatype.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class1/stringMethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/class1/stringMethod.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +52,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/praka/PycharmProjects/seleniumpython",
+    "last_opened_file_path": "C:/Users/praka/PycharmProjects/pythonSeleniumClass",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.practice">
+  <component name="RunManager" selected="Python.stringDatatype">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonSeleniumClass" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,9 +185,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.practice" />
-        <item itemvalue="Python.stringMethod" />
         <item itemvalue="Python.stringDatatype" />
+        <item itemvalue="Python.stringMethod" />
+        <item itemvalue="Python.practice" />
         <item itemvalue="Python.strDatatype" />
         <item itemvalue="Python.pythonDataTypes" />
       </list>
