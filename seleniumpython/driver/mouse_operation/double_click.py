@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver import ActionChains
-from selenium.webdriver.common import keys
 
 driver=webdriver.Chrome(executable_path="C://Users//praka//Documents//work//chromedriver.exe")
 

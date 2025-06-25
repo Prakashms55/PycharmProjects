@@ -35,22 +35,21 @@ s[start:stop-1:step]
 
 '''
 
-# x1 = 'Python'
+x1 = 'Python'
 
-# s[start:stop-1:step]  # py
+# s[start:stop-1:step]
 
 # out = x1[0:2]
-# print(out)
+# print(out)   # py
 # out1 = x1[2:5]
-# print(out1)
+# print(out1)   #tho
 # out2 = x1[:]
-#
 # print(out2)
 # out3 = x1[:5]
 # print(out3)
 
-#out=x1[-1:-4:-1]
-#print(out)
+# out=x1[-1:-4:-1]
+# print(out)
 
 # string concatenation
 # s1="python"  # we cant add string + int (or any data type) if you add then it throw--->type error

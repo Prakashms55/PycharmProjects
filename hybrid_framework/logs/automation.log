@@ -7,3 +7,7 @@
 2023-07-18 08:07:34,930 - root - INFO - *************** Test_001_Login *****************
 2023-07-18 08:07:34,933 - root - INFO - ****Started Home page title test ****
 2023-07-18 08:07:34,934 - root - INFO - ****Opening URL****
+2023-08-24 18:27:38,124 - root - INFO - *************** Test_001_Login *****************
+2023-08-24 18:27:38,138 - root - INFO - ****Started Home page title test ****
+2023-08-24 18:27:38,149 - root - INFO - ****Opening URL****
+2023-08-24 18:28:49,071 - root - INFO - verify that browser launched in right page

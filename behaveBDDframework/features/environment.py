@@ -11,6 +11,6 @@ def before_scenario(context,driver):
         print('browser is not launched')
     context.driver.get(configReader.Readconfig.getapplicationurl())
     context.driver.maximize_window()
-def after_scenario(context, driver):
+def after_scenario(context,driver):
     context.driver.quit()
 

@@ -26,11 +26,11 @@ def step_impl(context):
 
 @then(u'verify user get the proper message')
 def step_impl(context):
-    context.searchPage.verify_proper_message()
+    assert context.searchPage.verify_proper_message()
 @when(u'user enter nothing in the search box')
 def step_impl(context):
     context.homepage.send_keys_searchBar("")
 
 @then(u'proper message should be displayed')
 def step_impl(context):
-    context.searchPage.verify_proper_message()
+    assert context.searchPage.verify_proper_message()

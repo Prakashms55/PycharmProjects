@@ -58,7 +58,7 @@
 # print(out)
 # s="python"
 # out=s.center(9)
-# print(out)
+# print(out)    #  python
 # print(len(s))
 # print(len(out))
 ##########################################################################################
